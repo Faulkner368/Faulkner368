@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shaun Faulkner ([@Faulkner368](https://github.com/Faulkner368))
+- 👋 Hi, I’m Shaun Faulkner
 
 - 👀 I’m a junior full stack developer and I'm interested in building web applications; I have worked with .Net, C#, Azure, Entity Framework with a Vue.js and Javascript / Typescript frontend using CSS, HTML and Less. I have two years commercial experience in these technologies as well as two years of a computer science degree with Open University under my belt.
 
