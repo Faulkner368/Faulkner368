@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Shaun Faulkner
 
-- 👀 I’m an experienced full stack developer and I'm interested in building web applications; I have worked with .Net, C#, Azure, Entity Framework, Elastich with a Angular and Javascript / Typescript frontend using CSS, HTML and Less / SCSS preprocessors. I have three years commercial experience in these technologies as well as a HND in computer science with Open University under my belt.
+- 👀 I’m an experienced full stack developer and I'm interested in building web applications; I have worked with .Net, C#, Azure, Entity Framework, Elastich with  Angular / Vue and Javascript / Typescript frontend tech using CSS, HTML and Less / SCSS preprocessors. I have three years commercial experience in these technologies as well as a HND in computer science with Open University under my belt.
 
-- 🌱 I’m currently learning in my personal time the above tech stack also and I also play around with Python for web scraping, Twitter bots, Alexa skills and building apps / API's with Django when I get time.
+- 🌱 I enjoy learning and in my spare time I am practising practice in .Net and Angular or using Python for things like web scraping, Twitter bots, Alexa skills.
 
-- 💞️ I’m looking to collaborate on .Net, C#, Entity Framework and/or Angular technologies. I am on the Autistic spectrum (Aspergers) and for this reason I only work remotely as it is the only way I can maintain the equilibrium needed to be productive.
+- 💞️ I’m looking to collaborate on .Net, C#, Entity Framework and/or Angular technologies. I am on the Autistic spectrum (Aspergers) and for this reason I only work remotely (as a reasonable adjustment).
 
 - 📫 How to reach me ? you can message me on LinkedIn [@shaunfaulkner](https://www.linkedin.com/in/shaunfaulkner/)
 
