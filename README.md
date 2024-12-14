@@ -1,31 +1,29 @@
 👋 Hi, I’m Shaun Faulkner
 
-👀 I’m an experienced Mid Level Full Stack Developer and I'm interested in building web applications; I work with
+**Career-Oriented Bio**  
 
-  - .Net
-  - C#
-  - Azure
-  - Entity Framework
-  - Elastic Search
-  - Python
-  - Angular
-  - Javascript / Typescript
-  - SCSS / CSS
-  - HTML
-  - Accessibility
+I am a **Senior Full Stack Developer** at Aiimi Ltd, working on the Aiimi Insight Engine. With over six years of commercial experience, I bring expertise in building robust, accessible, and scalable web applications using a diverse range of technologies, among others including:  
 
-I have over three years commercial experience in these technologies as well as a HND in computer science with Open University.
+- **.NET / C#**  
+- **Angular, NGRX etc**
+- **Typescript / JavaScript**  
+- **Azure**  
+- **Docker**  
+- **Elastic Search**  
+- **Python**  
+- **SCSS / CSS / HTML**  
+- **Web Accessibility Standards**  
 
+I am motivated by problem-solving and continuously improving my craft. By day, I focus on creating powerful, user-friendly web application, while my evenings are often dedicated to exploring ad-hoc coding projects and, most recently, delving into **game development**. My journey into tech began with self-education on a Raspberry Pi, gaining full-stack experience before pursuing a **Higher National Diploma in Computer Science (Software)** through the Open University.  
 
-### Volunteering
+As someone who is **Autistic** and has **ADHD**, I leverage my natural hyperfocus and attention to detail to tackle complex challenges and deliver high-quality accessible solutions. 
 
-I enjoy volunteering when I have the time to commit to it and over the last few years I have volunteered for the following tasks / roles:
+### Volunteering  
+Volunteering has been a meaningful part of my life. I've contributed to diverse causes, including:  
+- **Mountain Safety:** Supporting participants in endurance events and ensuring their safety in challenging conditions.  
+- **The Mars Society:** Assisting with daily reports from the Mars Desert Research Station, fostering research into human exploration of Mars.  
 
--	First responder, responding to 999 calls, providing basic life support before an Ambulance arrives, such as CPR.
--	Mountain Safety, I provided support to event patrons on racing in the mountains.
--	Processing daily reports from the crew at the Mars Desert Research Station for the Mars Society
+### Interests and Hobbies  
+Previously, I spent a decade pushing my physical limits through endurance events, culminating in running 840 miles of the **Wales Coastal Path** for charity. Today, I enjoy hiking with my wife and dog, balancing this with managing periods of agoraphobia.  
 
-### Interests and hobbies
-I spent a decade participating in endurance events / challenges; e.g. a 120 mile coastal ride, double and triple consecutive mountain marathons and I also ran 840 miles of the Wales coastal path for charity, in 5 weeks, raising awareness/money for charity, but now I mostly hike.
-
-I enjoy learning, building, fixing, solving problems and figuring out how things work. I started self education with a Raspberry Pi; trying to gain the experience in full stack technologies before starting my degree with OU.
+Driven by a love of learning, I continue to expand my knowledge across software development, emerging technologies, and creative coding.
