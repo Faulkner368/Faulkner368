@@ -25,3 +25,5 @@ Volunteering has been a meaningful part of my life. I've contributed to diverse 
 Previously, I spent a decade pushing my physical limits through endurance events, culminating in running 840 miles of the **Wales Coastal Path** for charity. Today, I enjoy hiking with my wife and dog, balancing this with managing periods of agoraphobia.  
 
 Driven by a love of learning, I continue to expand my knowledge across software development, emerging technologies, and creative coding.
+
+🔗 https://www.linkedin.com/in/shaunfaulkner/
