@@ -1,6 +1,4 @@
-👋 Hi, I’m Shaun Faulkner
-
-**Career-Oriented Bio**  
+👋 Hi, I’m Shaun Faulkner  
 
 I am a **Senior Full Stack Developer** at Aiimi Ltd, working on the Aiimi Insight Engine. With over six years of commercial experience, I bring expertise in building robust, accessible, and scalable web applications using a diverse range of technologies, among others including:  
 
